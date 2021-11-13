@@ -1,5 +1,17 @@
-# Getting Started with Create React App
 
+## Usage
+
+1. Clone the repository
+2. `npm install` or `npm i`
+3. `npm start`
+
+## Details
+
+`create-react-app` version: `4.0.3`
+
+
+# Getting Started with Create React App
+### `npm install`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
